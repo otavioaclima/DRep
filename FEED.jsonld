@@ -28,7 +28,12 @@
         },
         "paymentAddress": "CIP119:paymentAddress",
         "givenName": "CIP119:givenName",
-        "image": "CIP119:image",
+        "image": {
+          "@id": "CIP119:image",
+          "@context": {
+            "ImageObject": "https://schema.org/ImageObject"
+          }
+        },
         "objectives": "CIP119:objectives",
         "motivations": "CIP119:motivations",
         "qualifications": "CIP119:qualifications",
@@ -54,6 +59,10 @@
   "hashAlgorithm": "blake2b-256",
   "body": {
     "givenName": "FEED",
+    "image": {
+      "@type": "ImageObject",
+      "contentUrl": "https://github.com/otavioaclima/DRep/blob/main/logo-drep.jpeg"
+    },
     "motivations": "We are driven to register as a DRep by our deep dedication to the Cardano ecosystem and our aspiration to take an active role in its development, ensuring that its progress stays true to the principles of decentralization, security, and community empowerment.",
     "objectives": "Since 2019, our members have been part of the Cardano ecosystem, contributing with a global news platform specialized in Cardano and organizing some official Cardano events, including summits, workshops, congresses, lectures and community meetups in Brazil and LATAM. Our goals moving forward are to leverage our expertise to actively contribute to governance discussions, safeguard the integrity of Cardano, and strategically guide its development in alignment with the community’s long-term vision.",
     "paymentAddress": "addr1q80823ey87ahj8n4tcaf0zuq7a9vggp0zs67lyfx47puhwxufguqdxs4zxzaa53qxayxfvv7gujx9d7d6uc6kqhmdd8qgsssln",
