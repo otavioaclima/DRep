@@ -57,7 +57,7 @@
     "motivations": "We are driven to register as a DRep by our deep dedication to the Cardano ecosystem and our aspiration to take an active role in its development, ensuring that its progress stays true to the principles of decentralization, security, and community empowerment.",
     "objectives": "Since 2019, our members have been part of the Cardano ecosystem, contributing with a global news platform specialized in Cardano and organizing some official Cardano events, including summits, workshops, congresses, lectures and community meetups in Brazil and LATAM. Our goals moving forward are to leverage our expertise to actively contribute to governance discussions, safeguard the integrity of Cardano, and strategically guide its development in alignment with the community’s long-term vision.",
     "paymentAddress": "addr1q80823ey87ahj8n4tcaf0zuq7a9vggp0zs67lyfx47puhwxufguqdxs4zxzaa53qxayxfvv7gujx9d7d6uc6kqhmdd8qgsssln",
-    "qualifications": "Founder at Cardano Feed, hub manager at Intersect Brazil Hub, attended Cardano's global workshop on CIP-1694 Governance in Edinburgh UK (July, 2023), member of Intersect (July, 2023) , Catalyst funded proposer, core team member of LATAM Cardano Community (June, 2023), delegate alternate from Rio, Brazil at Constitutional Convention in Buenos Aires (December, 2024) and participate at Constitutional Workshop in Kenya (November, 2024). Our team has already organized several official Cardano events for the Cardano community.",
+    "qualifications": "Founder at Cardano Feed, hub manager at Intersect Brazil Hub, attended Cardano's global workshop on CIP-1694 Governance in Edinburgh UK (July, 2023), member of Intersect (July, 2023) , Catalyst funded proposer, core team member of LATAM Cardano Community (June, 2023), delegate alternate from Rio, Brazil at Constitutional Convention in Buenos Aires (December, 2024) and participate at Constitutional Workshop in Kenya (November, 2024). Our team has already organized several official Cardano events for the community.",
     "references": [
       {
         "@type": "Link",
@@ -66,7 +66,7 @@
       },
       {
         "@type": "Link",
-        "label": "Our Links",
+        "label": "More Links",
         "uri": "https://linktr.ee/cardanofeed"
       },
       {
